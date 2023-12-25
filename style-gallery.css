@@ -1,0 +1,18 @@
+.slider{
+    margin: 50 auto;
+    width: 50%;
+} 
+.img-box img{
+width: 100%;
+}
+.btn{
+border: none;
+outline: none;
+background: #1daed6;
+padding: 10px 30px;
+font-size: 20px;
+color: aliceblue;
+cursor: pointer;
+margin: 10px auto;
+border-radius: 20px;
+}
